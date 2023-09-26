@@ -5,6 +5,8 @@
 > ソフトウェア科学会第 40 回大会チュートリアル  
 > 「試して作って知る ライブプログラミング入門」
 
+Code by Jun Kato ([@arcatdmz](https://github.com/arcatdmz/)) and Baku Hashimoto ([@baku89](https://github.com/baku89/)).
+
 https://jssst2023.wordpress.com/tutorial/
 
 触れるデモはこちら: [Live Programming Editor w/ Paper.js](https://glisp.app/jssst40-tuts/)
@@ -32,7 +34,7 @@ $ npm create vite
 ✔ Select a framework: › Vanilla
 ✔ Select a variant: › JavaScript
 
-Scaffolding project in /Users/baku/Sites/jssst40-tuts...
+Scaffolding project in (path to the repo)/jssst40-tuts...
 
 $ rm -rf public counter.html javascript.svg main.js
 ```
